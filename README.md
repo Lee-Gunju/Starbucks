@@ -582,3 +582,4 @@ Copyright © 2023 Apple Inc. 모든 권리 보유.
 ```
 
 # Starbucks
+# Starbucks
